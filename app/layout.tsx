@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: "Securinets | Interview Booking",
   description: "Securinets ISET Zaghouan Interview Booking Platform",
   icons: {
-    icon: "/securinets.jpg",
+    icon: "/favicon.png",
   },
 };
 export default function RootLayout({ children }: LayoutProps<"/">) {
